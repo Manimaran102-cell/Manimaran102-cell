@@ -19,7 +19,7 @@
 | 🧩 **Speciality**    | Modern web development — clean code practices, responsive UI components, RESTful backend design |
 | 🤖 **AI Experience** | Hands-on prompt engineering, building basic LLM-powered web utilities using LangChain and API wrappers                           |
 | 🏗️ **Scale**        |  Developed and deployed MERN-stack capstone projects and client apps handling thousand-plus database records                   |                                      |
-| 📍 **Location**      | Your city — open to remote/hybrid/onsite                                                     |
+| 📍 **Location**      | Tamilnadu, India — open to remote/hybrid/onsite                                                     |
 
 ## 🛠️ Tech Stack
 
