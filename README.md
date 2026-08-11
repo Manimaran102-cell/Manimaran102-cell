@@ -1,2 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourhandle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 [![Email](https://img.shields.io/badge/Email-you@mail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@mail.com)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile+views&color=0e75b6&style=flat-square)
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
