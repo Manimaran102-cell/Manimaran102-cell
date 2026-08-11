@@ -12,4 +12,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manimaran102-cell&layout=compact&theme=tokyonight&hide_border=true)
 
+## 🛠️ Tech Stack
+
+### Core
+![Language1](https://img.shields.io/badge/-Language1-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Language2](https://img.shields.io/badge/-Language2-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Styling & UI
+![Tool1](https://img.shields.io/badge/-Tool1-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### State & Data
+![Tool2](https://img.shields.io/badge/-Tool2-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+### Backend & Infra
+![Tool3](https://img.shields.io/badge/-Tool3-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 </div>
