@@ -4,7 +4,7 @@
 <p><strong>Frontend Developer</strong> - Fresher - Tamilnadu, India<p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourhandle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-mainmarank900@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mainmarank900@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manimarank900@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manimarank900@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Manimaran102-cell&label=Profile+views&color=0e75b6&style=flat-square)
 
 
