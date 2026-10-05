@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Manimaran k</h1>
 
-<p><strong>MERN Stack Developer</strong> - Fresher - Tamilnadu, India<p>
+<p><strong>Full Stack Developer</strong> - Fresher - Tamilnadu, India<p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourhandle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 [![Email](https://img.shields.io/badge/Email-manimarank900@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manimarank900@gmail.com)
